@@ -43,7 +43,7 @@ A Java-based client-server desktop application for efficiently managing employee
 
 1. *Clone the repository*
 bash
-git clone https://github.com/Sanjog0109/Employee-Management-System.git
+git clone https://github.com/aman-9754/Employee-Management-System.git
 
 
 2. *Open in your preferred Java IDE*  
